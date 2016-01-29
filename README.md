@@ -1,0 +1,2 @@
+# lidachangblog
+blog for lidachang
